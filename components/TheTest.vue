@@ -11,7 +11,7 @@
   const number = ref(0)
 
   const computedVar = computed(() => {
-    return `${variable.value} $8`
+    return `${variable.value} $`
   })
 
   const incrementNumber = () => {
