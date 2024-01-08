@@ -3,14 +3,15 @@
     <div class="title">Информация о нас</div>
     <div class="text">
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid temporibus illo explicabo esse asperiores eveniet animi consectetur at. Deserunt optio
-      ratione nostrum nisi veritatis tempore atque harum id illum fugiat!
+      ratione nostrum nisi veritatis tempore atque harum id illum fugiat!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid temporibus illo
+      explicabo esse asperiores eveniet animi consectetur at. Deserunt optioratione nostrum nisi veritatis tempore atque harum id illum fugiat!
     </div>
   </div>
 </template>
 
 <style lang="scss" scoped>
   .index-info {
-    margin: 0 42px;
+    margin: 20px 42px;
 
     .title {
       margin-bottom: 24px;
